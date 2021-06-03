@@ -29,7 +29,7 @@
 
   <summary>Statistics</summary>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanholler&langs_count=8&layout=compact" />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vanholler&show_icons=true" />
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vanholler&show_icons=true" />
 
 [linkedin]: https://www.linkedin.com/in/artiom-mikhnevich/
 [instagram]: https://www.instagram.com/mikhnevich_/
