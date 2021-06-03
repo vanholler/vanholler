@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Artyom
 
-## I'm a FrontEnd Developer, and Teacher
+## I'm a Software Engineer
 - 💪 I like to write code
 - 🎉 I love to paint and play the guitar
 - 🥅 I am constantly learning new things 
