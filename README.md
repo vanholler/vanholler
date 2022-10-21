@@ -31,6 +31,8 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.worldvectorlogo.com/logos/docker.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" />
+
 <br />
 <br />
 
