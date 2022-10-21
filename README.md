@@ -7,8 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="timartinov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="timartinov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="timmi_martin | telegram" width="22px" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" />][telegram]
 [<img align="left" alt="timartinov | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 
 <br />
