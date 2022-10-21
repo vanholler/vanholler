@@ -7,8 +7,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="timmi_martin | telegram" width="22px" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" />][telegram]
-[<img align="left" alt="timartinov | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+[<img align="left" alt="timmi_martin | telegram" width="22px" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" />][tg]
+[<img align="left" alt="timartinov | VK" width="22px" src="https://cdn.worldvectorlogo.com/logos/vk-1.svg" />][vk]
 
 <br />
 
