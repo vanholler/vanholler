@@ -42,5 +42,5 @@
 </details>
 
 [linkedin]: https://www.linkedin.com/in/artiom-mikhnevich/
-[instagram]: https://www.instagram.com/mikhnevich_/
+[tg]: https://t.me/timmi_martin
 [vk]: https://vk.com/timartinov
