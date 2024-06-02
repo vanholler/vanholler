@@ -40,6 +40,5 @@
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vanholler&show_icons=true" />
 </details>
 
-[linkedin]: https://www.linkedin.com/in/artiom-mikhnevich/
-[tg]: https://t.me/timmi_martin
-[vk]: https://vk.com/timartinov
+[tg]: https://t.me/timmy_mar
+[vk]: https://vk.com/timartinov123
