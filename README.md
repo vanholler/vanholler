@@ -33,12 +33,26 @@
 
 <br />
 <br />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanholler&langs_count=8&layout=compact" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vanholler&show_icons=true" />
 
-<details>
-  <summary>:zap: Statistics:</summary>
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanholler&langs_count=8&layout=compact" />
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vanholler&show_icons=true" />
-</details>
+![Vanholler's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanholler&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=vanholler&theme=dark&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=500&card_height=190&background=45%2C7F0D6CE0%2CAE4334)](https://git.io/streak-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 [tg]: https://t.me/timmy_mar
 [vk]: https://vk.com/timartinov123
