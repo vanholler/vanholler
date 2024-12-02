@@ -34,15 +34,18 @@
 <br />
 <br />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vanholler&theme=dark&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=500&card_height=190&background=45%2C7F0D6CE0%2CAE4334)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vanholler&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=500&card_height=190)](https://git.io/streak-stats)
 
+<br />
+<br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vanholler" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanholler&layout=compact&langs_count=8&card_width=320" />
 </a>
-
+<br />
+<br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vanholler&repo=speka" />
 </a>
