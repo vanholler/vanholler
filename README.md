@@ -33,11 +33,6 @@
 
 <br />
 <br />
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=vanholler&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=500&card_height=190)](https://git.io/streak-stats)
-
-<br />
-<br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vanholler" />
 </a>
@@ -55,3 +50,5 @@
 
 [tg]: https://t.me/timmy_mar
 [vk]: https://vk.com/timartinov123
+<br />
+[![GitHub Streak](https://streak-stats.demolab.com?user=NatalyMaxi&theme=react&hide_border=true&border_radius=10&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
