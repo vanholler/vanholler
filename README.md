@@ -41,10 +41,10 @@
 </a>
 <br />
 <br />
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/vanholler/Design-Patterns">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vanholler&repo=Design-Patterns" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/vanholler/Airbnb-JavaScript-Style-Guide">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vanholler&repo=Airbnb-JavaScript-Style-Guide" />
 </a>
 
