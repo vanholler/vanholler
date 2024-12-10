@@ -50,5 +50,3 @@
 
 [tg]: https://t.me/timmy_mar
 [vk]: https://vk.com/timartinov123
-<br />
-[![GitHub Streak](https://streak-stats.demolab.com?user=vanholler&theme=react&hide_border=true&border_radius=10&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
