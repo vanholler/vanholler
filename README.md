@@ -45,7 +45,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vanholler&repo=Design-Patterns" />
 </a>
 <a href="https://github.com/vanholler/Airbnb-JavaScript-Style-Guide">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vanholler&repo=Airbnb-JavaScript-Style-Guide" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vanholler&repo=node.js_modules" />
 </a>
 
 [tg]: https://t.me/timmy_mar
