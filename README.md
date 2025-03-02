@@ -44,7 +44,7 @@
 <a href="https://github.com/vanholler/Design-Patterns">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vanholler&repo=Design-Patterns" />
 </a>
-<a href="https://github.com/vanholler/Airbnb-JavaScript-Style-Guide">
+<a href="https://github.com/vanholler/node.js_modules">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vanholler&repo=node.js_modules" />
 </a>
 
