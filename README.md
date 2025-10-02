@@ -41,7 +41,7 @@
 </a>
 <br />
 <br />
-<a href="https://github.com/vanholler/js_runtime_engines">
+<a href="https://github.com/vanholler/js_runtime_engine">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vanholler&repo=js_runtime_engine" />
 </a>
 
